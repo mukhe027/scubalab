@@ -11,7 +11,7 @@
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We develop state-of-the-art multi-robot topology control algorithms and apply it to real robots. We believe in taking a multi-tiered approach: i) develop robust theory; ii) test with high fidelity simulations; iii) make real robots work in real world environments.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our projects tackle real-world problems with the help of collaborative teams of robots to solve a range of problems that exist in agriculture, search and rescue, to safe autonomy on roads. 
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+SCUBA Lab is currently recruiting actively for enthusiastic future roboticists who are willing to change the world with the help of robotics.
 
 {%
   include button.html
