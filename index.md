@@ -1,7 +1,7 @@
 ---
 ---
 
-# Scaling Collaborative Unmanned roBots for Autonomy Lab is a robotics lab in the Ocean and Mechanical Engineering (OME) department of Florida Atlantic University (FAU). The lab is situated in the SeaTech campus of FAU. The research focus of this lab is to develop novel multi-robot topology control algorithms by applying state-of-the-art machine learning models to ease the scaling of multi-robot teams.
+# SCUBA Lab is a robotics lab in the Ocean and Mechanical Engineering (OME) department of Florida Atlantic University (FAU). The lab is situated in the SeaTech campus of FAU. The research focus of this lab is to develop novel multi-robot topology control algorithms by applying state-of-the-art machine learning models to ease the scaling of multi-robot teams.
 
 
 
@@ -26,7 +26,7 @@ We develop state-of-the-art multi-robot topology control algorithms and apply it
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.png"
   link="research"
   title="Our Research"
   text=text
@@ -49,7 +49,7 @@ Our projects tackle real-world problems with the help of collaborative teams of 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/mrs.png"
   link="projects"
   title="Our Projects"
   flip=true
