@@ -1,7 +1,7 @@
 ---
 ---
 
-# mukhe027DESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Scaling Collaborative Unmanned roBots for Autonomy Lab is a robotics lab in the Ocean and Mechanical Engineering (OME) department of Florida Atlantic University (FAU). The lab is situated in the SeaTech campus of FAU. The research focus of this lab is to develop novel multi-robot topology control algorithms by applying state-of-the-art machine learning models to ease the scaling of multi-robot teams.
 
 
 
