@@ -1,14 +1,14 @@
 ---
-name: Jane Smith
+name: Pratik Mukherjee
 image: images/photo.jpg
 role: pi
-affiliation: University of Colorado
+affiliation: Florida Atlantic University
 aliases:
-  - J. Smith
-  - J Smith
+  - P. Mukherjee
+  - P Mukherjee
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://mukhe027.github.io/
+  orcid: 0000-0003-2970-8515
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
