@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+SCUBA Lab is always looking for enthusiastic roboticitis to work on real-world problems that can be solved using robots. Whoever joins SCUBA Lab becomes a co-founder of our start-up. We believe in solving the toughest problems that will have a positive impact in our society. Please reach out to the Principal Invesitgator (PI) with your CV to set-up an interview.
 
 {% include section.html %}
 
