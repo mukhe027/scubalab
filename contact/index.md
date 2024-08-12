@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+SCUBA Lab is affiliated with the [SeaTech]{https://www.fau.edu/engineering/ome/labs-centers/seatech/} within the Ocean and Mechanical Engineering Department (OME) at Florida Atlantic University (FAU)
 
 {%
   include button.html

@@ -8,7 +8,8 @@ nav:
 # Vacancies
 <!-- # {% include icon.html icon="fa-solid fa-feather-pointed" %}Vacancies -->
 
-Open positions
+
+ <h2>Open Positions</h2> 
 We are always looking to work with talented students and researchers all around the world from diverse backgrounds. Please read further and see if any of these categories fit the role you are looking to apply for.
 
  <h2>PhD or Master’s research positions (apply here)</h2> 
