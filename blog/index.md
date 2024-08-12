@@ -30,3 +30,5 @@ We are looking for some combination of the following technical skills:
 
  <h2>Undergraduate research positions (apply here)</h2> 
 If you are an undergraduate student at the Florida Atlantic University and would like to gain research experience toward graduate school application in the future semesters, please look into this webpage. We will reach out to you if we have a project that matches your skillsets. For funding please look into REU programs. We highly encourage students to apply for a directed/independent research credit, where they will work on a project with a graduate student.
+
+
