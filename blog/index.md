@@ -6,6 +6,7 @@ nav:
 ---
 
 # Vacancies
+<!-- # {% include icon.html icon="fa-solid fa-feather-pointed" %}Vacancies -->
 
 Open positions
 We are always looking to work with talented students and researchers all around the world from diverse backgrounds. Please read further and see if any of these categories fit the role you are looking to apply for.
