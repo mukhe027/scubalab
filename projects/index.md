@@ -7,4 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Will be updating soon :)
+Will be updating soon:)
+
+
