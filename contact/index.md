@@ -57,8 +57,8 @@ SCUBA Lab is affiliated with <a href="https://www.fau.edu/engineering/ome/labs-c
 
 
 {% capture col2 %}
-101 N Beach Rd, 
-Dania Beach, 
+101 N Beach Rd, <br>
+Dania Beach, <br>
 FL 33004
 {% endcapture %}
 
