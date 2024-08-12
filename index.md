@@ -74,7 +74,7 @@ SCUBA Lab is currently recruiting actively for enthusiastic future roboticists w
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.png"
   link="team"
   title="Our Team"
   text=text
