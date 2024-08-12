@@ -13,7 +13,7 @@ Our research focuses on developing novel control algorithms for multi-robot topo
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Multirobot Field of View Control With Adaptive Decentralization" style="rich" %}
 
 {% include section.html %}
 
