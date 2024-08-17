@@ -30,6 +30,6 @@ We are looking for some combination of the following technical skills:
  And if you dont have experience in the above technical skills, you will gain the experience over your PhD :)
 
  <h2>Master's and Undergraduate research positions (<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=wcnDYyToP0G0NS8Mq7KCj7mQB-IRyItDutrdRTZsjsdUMTVWMkJIMlRQRlVNMDNORDVXSVE5RE5IQi4u">apply here</a>)</h2> 
-Please submit the interest form by clicking on "apply here". If you are a Master's and  Undergraduate student at the Florida Atlantic University and would like to gain research experience toward graduate school application in the future semesters, please look into this webpage. We will reach out to you if we have a project that matches your skill sets. For undergraduate funding please look into REU programs or <a href="https://www.fau.edu/ouri/">OFFICE OF UNDERGRADUATE RESEARCH AND INQUIRY (OURI)/a>. 
+Please submit the interest form by clicking on "apply here". If you are a Master's and  Undergraduate student at the Florida Atlantic University and would like to gain research experience toward graduate school application in the future semesters, please look into this webpage. We will reach out to you if we have a project that matches your skill sets. For undergraduate funding please look into REU programs or <a href="https://www.fau.edu/ouri/">OFFICE OF UNDERGRADUATE RESEARCH AND INQUIRY (OURI) </a>. 
 
 
