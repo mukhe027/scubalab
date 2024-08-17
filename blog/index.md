@@ -12,9 +12,9 @@ nav:
  <h2>Open Positions</h2> 
 We are always looking to work with talented students and researchers all around the world from diverse backgrounds. Please read further and see if any of these categories fit the role you are looking to apply for.
 
- <h2>PhD or Master’s research positions (apply here)</h2> 
+ <h2>PhD research positions (apply here by emailing PI)</h2> 
 
-We are currently looking for roboticists for Fall 2024 semester. Therefore, we encourage you to fill the form. If you are a PhD or a Master’s student at Florida Atlantic University and would like to gain research experience in the areas that SCUBA lab focuses on, please fill out this google-form. We will reach out to you if we have a project that matches your skills. Currently, we do not have funding for research assistantships for PhD students. 
+We are currently looking for roboticists for the current semester. If you are a PhD student at Florida Atlantic University and would like to gain research experience in the areas that SCUBA lab focuses on, please email the PI directly with your CV attached. We will reach out to you if we have a project that matches your skills. 
 
 We are looking for some combination of the following technical skills:
 
@@ -27,9 +27,9 @@ We are looking for some combination of the following technical skills:
   <li>Experience with Blender or other designing tools</li>
 </ul>
 
+ And if you dont have experience in the above technical skills, you will gain the experience over your PhD :)
 
-
- <h2>Undergraduate research positions (apply here)</h2> 
-If you are an undergraduate student at the Florida Atlantic University and would like to gain research experience toward graduate school application in the future semesters, please look into this webpage. We will reach out to you if we have a project that matches your skillsets. For funding please look into REU programs. We highly encourage students to apply for a directed/independent research credit, where they will work on a project with a graduate student.
+ <h2>Master's and Undergraduate research positions (<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=wcnDYyToP0G0NS8Mq7KCj7mQB-IRyItDutrdRTZsjsdUMTVWMkJIMlRQRlVNMDNORDVXSVE5RE5IQi4u">apply here</a>)</h2> 
+Please submit the interest form by clicking on "apply here". If you are a Master's and  Undergraduate student at the Florida Atlantic University and would like to gain research experience toward graduate school application in the future semesters, please look into this webpage. We will reach out to you if we have a project that matches your skill sets. For undergraduate funding please look into REU programs or <a href="https://www.fau.edu/ouri/">OFFICE OF UNDERGRADUATE RESEARCH AND INQUIRY (OURI)/a>. 
 
 
