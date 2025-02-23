@@ -26,7 +26,7 @@ We develop state-of-the-art multi-robot topology control algorithms and apply it
 
 {%
   include feature.html
-  image="images/research.png"
+  image="images/phase_2.png"
   link="research"
   title="Our Research"
   text=text
