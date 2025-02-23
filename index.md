@@ -49,7 +49,7 @@ Our projects tackle real-world problems with the help of collaborative teams of 
 
 {%
   include feature.html
-  image="images/mrs.png"
+  image="images/phase_2.png"
   link="projects"
   title="Our Projects"
   flip=true
