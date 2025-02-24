@@ -2,39 +2,34 @@
   subtitle: NSF- Engineering Research Initiation
   group: featured
   image: images/3quad_graph.jpg
-  link: https://github.com/
+  link: 
   description: Test optimal control algorithms on a team of unmanned aerial vehicles (UAVs), in real-world conditions using the experimental MRS test-bed.
   repo: 
   tags:
-    - resource
 
 - title: Use of Unmanned Aerial Vehicles Towards Near-Ground Active Information Acquisition Tasks in Agriculture
   subtitle: USDA/NIFA- NSF/FRR
   group: featured
   image: images/mrs_agri.png
-  link: https://github.com/
+  link: 
   description: Integrating camera based active information acquisition for agriculture with stably coordinating unmanned aerial vehicles in multi-robot teams.
-  repo: greenelab/lab-website-template
+  repo: 
   tags:
-    - resource
 
 - title: Topology Control of Asymmetrically Interacting Underwater Multi-Robot System
   subtitle: NSF-Foundational Research in Robotics (FRR)
   image: images/jelly_topo.png
-  link: https://github.com/
+  link: 
   description: Developing distributed and scalable multi-robot topology control algorithms for a team of underwater soft robots.
-  repo: greenelab/lab-website-template
+  repo: 
   tags:
-    - resource
-    - publication
 
 - title: From Graph Stability To Grasp Stability
   subtitle: NSF- Mind, Machine and Motor Nexus (M3X)
   image: images/tactile_sensing.png
-  link: https://github.com/
+  link: 
   description: Enhancing the capability of manipulator class of robots equipped with tactile sensors by using generative model approaches to classify manipulation tasks such as- object recognition, material classification, texture recognition, slip detection and grasp stability.
-  repo: greenelab/lab-website-template
+  repo: 
   tags:
-    - software
 
 
