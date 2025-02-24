@@ -3,7 +3,7 @@
   group: featured
   image: images/3quad_graph.jpg
   link: https://github.com/
-  description: test optimal control algorithms on a team of unmanned aerial vehicles (UAVs), in real-world conditions using the experimental MRS test-bed
+  description: Test optimal control algorithms on a team of unmanned aerial vehicles (UAVs), in real-world conditions using the experimental MRS test-bed.
   repo: greenelab/lab-website-template
   tags:
     - resource
@@ -22,7 +22,7 @@
   subtitle: NSF-Foundational Research in Robotics (FRR)
   image: images/jelly_topo.png
   link: https://github.com/
-  description: developing distributed and scalable multi-robot topology control algorithms for a team of underwater soft robots
+  description: Developing distributed and scalable multi-robot topology control algorithms for a team of underwater soft robots.
   repo: greenelab/lab-website-template
   tags:
     - resource
@@ -32,7 +32,7 @@
   subtitle: NSF- Mind, Machine and Motor Nexus (M3X)
   image: images/tactile_sensing.png
   link: https://github.com/
-  description: Enhancing the capability of manipulator class of robots equipped with tactile sensors by using generative model approaches to classify manipulation tasks such as: object recognition, material classification, texture recognition, slip detection and grasp stability.
+  description: Enhancing the capability of manipulator class of robots equipped with tactile sensors by using generative model approaches to classify manipulation tasks such as- object recognition, material classification, texture recognition, slip detection and grasp stability.
   repo: greenelab/lab-website-template
   tags:
     - software
