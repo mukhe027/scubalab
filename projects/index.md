@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Will be updating soon:) For the PI's previous projects, prior to 2024, please visit the <a href="https://mukhe027.github.io/portfolio/">website</a>.
+ For the PI's previous projects, prior to 2024, please visit the <a href="https://mukhe027.github.io/portfolio/">website</a>.
 
 ## Featured
 
@@ -15,6 +15,3 @@ Will be updating soon:) For the PI's previous projects, prior to 2024, please vi
 
 {% include section.html %}
 
-## More
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
