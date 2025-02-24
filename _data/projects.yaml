@@ -13,7 +13,7 @@
   group: featured
   image: images/mrs_agri.png
   link: https://github.com/
-  description: fffeee
+  description: Integrating camera based active information acquisition for agriculture with stably coordinating unmanned aerial vehicles in multi-robot teams.
   repo: greenelab/lab-website-template
   tags:
     - resource
