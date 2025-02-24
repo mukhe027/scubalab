@@ -1,10 +1,14 @@
-<!-- ---
-name: John Doe
-image: images/photo.jpg
-role: phd
-group: alum
+---
+name: Daniel Granda
+image: images/robot_profile.png
+role: Undergraduate Research Assistant
+affiliation: Florida Atlantic University
+aliases:
+  - D. Granda
+  - D Granda
 links:
-  github: john-doe
+  home-page: 
+  orcid: 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -->
+ I am a Undergraduate Research Assistant in SCUBA lab working on sensor fusion for autonomous ground robot systems.

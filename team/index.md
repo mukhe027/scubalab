@@ -14,7 +14,7 @@ SCUBA Lab is always looking for enthusiastic roboticitis to work on real-world p
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html background="images/scuba_logo3.jpg" dark=true %}
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
