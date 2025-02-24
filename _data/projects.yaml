@@ -4,7 +4,7 @@
   image: images/3quad_graph.jpg
   link: https://github.com/
   description: Test optimal control algorithms on a team of unmanned aerial vehicles (UAVs), in real-world conditions using the experimental MRS test-bed.
-  repo: greenelab/lab-website-template
+  repo: 
   tags:
     - resource
 
