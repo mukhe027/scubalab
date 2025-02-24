@@ -1,6 +1,6 @@
 ---
 name: Vladimir Gunichev
-image: images/robot_profile.png
+image: images/vlad.png
 role: Undergraduate Research Assistant
 affiliation: Florida Atlantic University
 aliases:

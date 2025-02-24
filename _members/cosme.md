@@ -5,7 +5,7 @@ role: Undergraduate Research Assistant
 affiliation: Florida Atlantic University
 aliases:
   - C. Penney
-  - C GPenney
+  - C Penney
 links:
   home-page: 
   orcid: 

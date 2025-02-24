@@ -1,6 +1,6 @@
 ---
 name: Caleb Sanchez
-image: images/robot_profile.png
+image: images/caleb_sanchez.png
 role: Undergraduate Research Assistant
 affiliation: Florida Atlantic University
 aliases:
