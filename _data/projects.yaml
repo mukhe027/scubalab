@@ -8,19 +8,19 @@
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Use of Unmanned Aerial Vehicles Towards Near-Ground Active Information Acquisition Tasks in Agriculture
+  subtitle: USDA/NIFA- NSF/FRR
   group: featured
-  image: images/photo.jpg
+  image: images/mrs_agri.png
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
+- title: Topology Control of Asymmetrically Interacting Underwater Multi-Robot System
+  subtitle: NSF-Foundational Research in Robotics (FRR)
+  image: images/jelly_topo.png
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
@@ -28,9 +28,9 @@
     - resource
     - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
+- title: From Graph Stability To Grasp Stability
+  subtitle: NSF-\textbf{Target Program:} Mind, Machine and Motor Nexus (M3X)
+  image: images/tactile_sensing.png
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
