@@ -7,7 +7,7 @@ aliases:
   - C. Sanchez
   - C Sanchez
 links:
-  home-page: 
+  home-page: https://www.linkedin.com/in/caleb-sanchez-14b512224/?trk=public_profile_browsemap
   orcid: 
 ---
 

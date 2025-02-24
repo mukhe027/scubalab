@@ -7,7 +7,7 @@ aliases:
   - V. Gunichev
   - V Gunichev
 links:
-  home-page: 
+  home-page: https://www.linkedin.com/in/vladimir-gunichev-353529266/
   orcid: 
 ---
 

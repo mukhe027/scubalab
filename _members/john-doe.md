@@ -7,7 +7,7 @@ aliases:
   - D. Granda
   - D Granda
 links:
-  home-page: 
+  home-page: https://www.linkedin.com/in/daniel-granda-4300a0283/
   orcid: 
 ---
 
