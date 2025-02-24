@@ -32,13 +32,16 @@
   subtitle: NSF-\textbf{Target Program:} Mind, Machine and Motor Nexus (M3X)
   image: images/tactile_sensing.png
   link: https://github.com/
-  description: This project addresses the two underlying themes that is- i) enhancing the capability of manipulator class of robots
-     equipped with tactile sensors by using generative model approaches to classify manipulation tasks such as: object recognition, material classification,
-     texture recognition, slip detection and grasp stability; ii) using generative model approach of diffusion models for reconstruction of polygons
-      from their corresponding visibility graph without any spatial data and use it to capture dynamic features from time-varying tactile behavior of
-     manipulators.
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
     - software
 
-
+- title: Cool Web Server
+  subtitle: a subtitle
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+  tags:
+    - software
