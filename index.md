@@ -11,7 +11,7 @@
 
 {% capture text %}
 
-We devel state-of-the-art multi-robot topology control algorithms and apply it to real robots. We believe in taking a multi-tiered approach: i) develop robust theory; ii) test with high fidelity simulations; iii) make real robots work in real world environments.
+We develop state-of-the-art multi-robot topology control algorithms and apply it to real robots. We believe in taking a multi-tiered approach: i) develop robust theory; ii) test with high fidelity simulations; iii) make real robots work in real world environments.
 
 {%
   include button.html
@@ -49,7 +49,7 @@ Our projects tackle real-world problems with the help of collaborative teams of 
 
 {%
   include feature.html
-  image="images/phase_2.png"
+  image="images/mrs.png"
   link="projects"
   title="Our Projects"
   flip=true
