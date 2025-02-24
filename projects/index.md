@@ -14,3 +14,7 @@ Will be updating soon:) For the PI's previous projects, prior to 2024, please vi
 {% include list.html component="card" data="projects" filter="group == 'featured'" %}
 
 {% include section.html %}
+
+## More
+
+{% include list.html component="card" data="projects" filter="!group" style="small" %}
