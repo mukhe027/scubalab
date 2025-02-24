@@ -13,7 +13,7 @@
   group: featured
   image: images/mrs_agri.png
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: This project addresses the underlying themes of FRR in the context of NIFA that is : i) integrating camera based active information acquisition for agriculture with stably coordinating unmanned aerial vehicles in multi-robot teams; ii)developing computationally efficient, real-time nonlinear optimal trajectory controllers for active information acquisition using learned propeller down-wash dynamics for active disturbance rejection.
   repo: greenelab/lab-website-template
   tags:
     - resource
