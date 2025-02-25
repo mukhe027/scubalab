@@ -1,6 +1,6 @@
 ---
 name: Taiwo Hazeez
-image: images/robot_profile.png
+image: images/taiwo.png
 role: PhD Student
 affiliation: Florida Atlantic University
 aliases:
