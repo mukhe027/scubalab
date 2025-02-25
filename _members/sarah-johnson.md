@@ -1,7 +1,7 @@
 ---
 name: Taiwo Hazeez
 image: images/taiwo.png
-role: PhD Student
+role: phd
 affiliation: Florida Atlantic University
 aliases:
   - T. Hazeez

@@ -1,7 +1,7 @@
 ---
 name: Daniel Granda
 image: images/daniel_granda.png
-role: Undergraduate Research Assistant
+role: Research Assistant
 affiliation: Florida Atlantic University
 aliases:
   - D. Granda
