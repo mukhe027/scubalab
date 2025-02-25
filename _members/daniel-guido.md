@@ -1,6 +1,6 @@
 ---
 name: Daniel Guido
-image: images/robot_profile.png
+image: images/daniel_guido.png
 role: Undergraduate Research Assistant
 affiliation: Florida Atlantic University
 aliases:
@@ -11,4 +11,4 @@ links:
   orcid: 
 ---
 
- I am a Undergraduate Research Assistant in SCUBA lab working on developing a multi-robot system of drones.
+ I am an Undergraduate Senior studying Mechanical Engineering. In the SCUBA lab, my primary focus is on optimizing the drone testbed. This involves minimizing the gap between simulation and real-world performance in our drone systems and enhancing their ability to interact with other autonomous vehicles all in the aim of supporting a range of possible mission scenarios.
