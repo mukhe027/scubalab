@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Our research focuses on developing novel control algorithms for multi-robot topology control by utilising state-of-the-art machine learning models. 
+Our research focuses on developing control algorithms for multi-robot topology control by utilising state-of-the-art machine learning models. 
 
 {% include section.html %}
 
@@ -26,6 +26,10 @@ Our research focuses on developing novel control algorithms for multi-robot topo
 {% include section.html %} 
 
 {% include citation.html lookup="Hardware-in-the-loop testbed for evaluating connected vehicle applications" style="rich" %}
+
+{% include section.html %} 
+
+{% include citation.html lookup="Evaluating Connected Vehicles and Their Applications" style="rich" %}
 
 {% include section.html %} 
 
