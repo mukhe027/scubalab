@@ -1,0 +1,13 @@
+- id: 10.1109/LRA.2022.3155822
+  title: Distributed Adaptive and Resilient Control of Multi-Robot Systems With Limited Field of View Interactions
+  authors:
+  - Pratik Mukherjee
+  - Matteo Santilli
+  - Andrea Gasparri
+  - Ryan K,Williams
+  publisher: ieee
+  date: '2021-03-03'
+  link: https://ieeexplore.ieee.org/abstract/document/9726803
+  image: images/research.png
+  plugin: sources.py
+  file: sources.yaml
