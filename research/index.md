@@ -25,6 +25,10 @@ Our research focuses on developing novel control algorithms for multi-robot topo
 
 {% include section.html %} 
 
+{% include citation.html lookup="Hardware-in-the-loop testbed for evaluating connected vehicle applications" style="rich" %}
+
+{% include section.html %} 
+
 
 <!-- ## All -->
 

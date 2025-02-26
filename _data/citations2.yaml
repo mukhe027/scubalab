@@ -5,7 +5,7 @@
   - Matteo Santilli
   - Andrea Gasparri
   - Ryan K,Williams
-  publisher: IEEE
+  publisher: IEEE RA-L
   date: '2021-03-03'
   link: https://ieeexplore.ieee.org/abstract/document/9726803
   image: images/research.png
@@ -18,7 +18,7 @@
   - Pratik Mukherjee
   - Ryan K,Williams
   - Andrea Gasparri
-  publisher: IEEE
+  publisher: IEEE TR-O
   date: '2022-02-01'
   link: https://ieeexplore.ieee.org/abstract/document/9698245
   image: images/tro.png
@@ -31,9 +31,24 @@
   - Pratik Mukherjee
   - O. Goktug Poyrazoglu
   - Volkan Isler
-  publisher: IEEE
+  publisher: IEEE ICRA
   date: '2023-12-13'
   link: https://ieeexplore.ieee.org/abstract/document/10342391
   image: images/sysid.png
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1016/j.trc.2017.02.01
+  title: Hardware-in-the-loop testbed for evaluating connected vehicle applications
+  authors:  
+  - Mohd Azrin Mohd Zulkefli
+  - Pratik Mukherjee
+  - Zongxuan Sun
+  - Jianfeng Zheng
+  -Henry X.Liu
+  -Peter Huang
+  publisher: Transportation Research Part C Emerging Technologies
+  date: '2017-05-01'
+  link: https://www.sciencedirect.com/science/article/pii/S0968090X17300591?via%3Dihub
+  image: images/hils.png
   plugin: sources.py
   file: sources.yaml
