@@ -1,7 +1,8 @@
 ---
 name: Daniel Guido
 image: images/daniel_guido.png
-role: Undergraduate Research Assistant
+description: Undergraduate Researcher
+role: phd
 affiliation: Florida Atlantic University
 aliases:
   - D. Guido

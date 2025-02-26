@@ -11,4 +11,4 @@ links:
   orcid: 
 ---
 
- I am a Undergraduate Research Assistant in SCUBA lab working on sensor fusion for autonomous ground robot systems.
+ I am an Undergraduate Research Assistant in SCUBA lab working on sensor fusion for autonomous ground robot systems.
