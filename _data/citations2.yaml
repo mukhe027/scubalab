@@ -15,12 +15,25 @@
   title: Multirobot Field of View Control With Adaptive Decentralization
   authors:
   - Matteo Santilli
-  - MPratik Mukherjee
+  - Pratik Mukherjee
   - Ryan K,Williams
   - Andrea Gasparri
   publisher: IEEE
   date: '2022-02-01'
   link: https://ieeexplore.ieee.org/abstract/document/9698245
   image: images/tro.png
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1109/IROS55552.2023.10342391
+  title: System Identification and Control of Front-Steered Ackermann Vehicles Through Differentiable Physics
+  authors:
+  - Burak M. Gonultas
+  - Pratik Mukherjee
+  - O. Goktug Poyrazoglu
+  - Volkan Isler
+  publisher: IEEE
+  date: '2023-12-13'
+  link: https://ieeexplore.ieee.org/abstract/document/10342391
+  image: images/sysid.png
   plugin: sources.py
   file: sources.yaml

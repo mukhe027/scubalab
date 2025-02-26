@@ -13,13 +13,18 @@ Our research focuses on developing novel control algorithms for multi-robot topo
 
 ## Highlighted
 
-{% include citation.html lookup="Distributed Adaptive and Resilient Control of Multi-Robot Systems With Limited Field of View Interactions" style="rich" %}
+{% include citation.html lookup="System Identification and Control of Front-Steered Ackermann Vehicles Through Differentiable Physics" style="rich" %}
 
 {% include section.html %} 
 
 {% include citation.html lookup="Multirobot Field of View Control With Adaptive Decentralization" style="rich" %}
 
 {% include section.html %} 
+
+{% include citation.html lookup="Distributed Adaptive and Resilient Control of Multi-Robot Systems With Limited Field of View Interactions" style="rich" %}
+
+{% include section.html %} 
+
 
 <!-- ## All -->
 
