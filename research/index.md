@@ -13,7 +13,7 @@ Our research focuses on developing novel control algorithms for multi-robot topo
 
 ## Highlighted
 
-{% include citation.html lookup="Sci-Hub provides access to nearly all scholarly literature" style="rich" %}
+{% include citation.html lookup="Distributed Adaptive and Resilient Control of Multi-Robot Systems With Limited Field of View Interactions" style="rich" %}
 
 {% include section.html %}
 
