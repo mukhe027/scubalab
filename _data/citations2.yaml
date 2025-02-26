@@ -63,3 +63,16 @@
   image: images/hils2.png
   plugin: sources.py
   file: sources.yaml
+- id:  arXiv:2405.16358
+  title: Neural L1 Adaptive Control of Vehicle Lateral Dynamics
+  authors:  
+  - Pratik Mukherjee
+  - Burak Mert Gonultas
+  - O. Goktug Poyrazoglu
+  - Volkan Isler
+  publisher: IEEE ICRA
+  date: '2025-01-27'
+  link: https://arxiv.org/abs/2405.16358
+  image: images/neural.png
+  plugin: sources.py
+  file: sources.yaml

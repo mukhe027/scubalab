@@ -13,6 +13,10 @@ Our research focuses on developing control algorithms for multi-robot topology c
 
 ## Highlighted
 
+{% include citation.html lookup="Neural L1 Adaptive Control of Vehicle Lateral Dynamics" style="rich" %}
+
+{% include section.html %} 
+
 {% include citation.html lookup="System Identification and Control of Front-Steered Ackermann Vehicles Through Differentiable Physics" style="rich" %}
 
 {% include section.html %} 
