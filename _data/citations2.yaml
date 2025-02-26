@@ -5,9 +5,22 @@
   - Matteo Santilli
   - Andrea Gasparri
   - Ryan K,Williams
-  publisher: ieee
+  publisher: IEEE
   date: '2021-03-03'
   link: https://ieeexplore.ieee.org/abstract/document/9726803
   image: images/research.png
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1109/TRO.2022.3142660
+  title: Multirobot Field of View Control With Adaptive Decentralization
+  authors:
+  - Matteo Santilli
+  - MPratik Mukherjee
+  - Ryan K,Williams
+  - Andrea Gasparri
+  publisher: IEEE
+  date: '2022-02-01'
+  link: https://ieeexplore.ieee.org/abstract/document/9698245
+  image: images/tro.png
   plugin: sources.py
   file: sources.yaml
