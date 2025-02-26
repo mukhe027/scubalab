@@ -1,7 +1,8 @@
 ---
 name: Caleb Sanchez
 image: images/caleb_sanchez.png
-role: Undergraduate Research Assistant
+description: Undergraduate Researcher
+role: phd
 affiliation: Florida Atlantic University
 aliases:
   - C. Sanchez

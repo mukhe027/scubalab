@@ -1,7 +1,8 @@
 ---
 name: Cosme Penney
 image: images/robot_profile.png
-role: Undergraduate Research Assistant
+description: Undergraduate Researcher
+role: phd
 affiliation: Florida Atlantic University
 aliases:
   - C. Penney
@@ -11,4 +12,4 @@ links:
   orcid: 
 ---
 
- I am a Undergraduate Research Assistant in SCUBA lab working on developing high fidelity simulations for multi-robot systems.
+ I am an Undergraduate Research Assistant in SCUBA lab working on developing high fidelity simulations for multi-robot systems.

@@ -1,7 +1,8 @@
 ---
 name: Vladimir Gunichev
 image: images/vlad.png
-role: Undergraduate Research Assistant
+description: Undergraduate Researcher
+role: phd
 affiliation: Florida Atlantic University
 aliases:
   - V. Gunichev
@@ -11,4 +12,4 @@ links:
   orcid: 
 ---
 
- I am a Undergraduate Research Assistant in SCUBA lab working on navigation and control of ground robot systems.
+ I am an Undergraduate Research Assistant in SCUBA lab working on navigation and control of ground robot systems.
