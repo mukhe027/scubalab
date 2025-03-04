@@ -64,7 +64,7 @@ SCUBA Lab is currently recruiting actively for enthusiastic future roboticists w
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="Meet the SCUBA Roboticists"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -76,6 +76,6 @@ SCUBA Lab is currently recruiting actively for enthusiastic future roboticists w
   include feature.html
   image="images/team.png"
   link="team"
-  title="Our Team"
+  title="Our Roboticists"
   text=text
 %}

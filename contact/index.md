@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-SCUBA Lab is affiliated with <a href="https://www.fau.edu/engineering/ome/labs-centers/seatech/">SeaTech</a> within the Ocean and Mechanical Engineering Department (<a href="https://www.fau.edu/engineering/ome/">OME</a>) at Florida Atlantic University (FAU).
+SCUBA Lab is affiliated with <a href="https://www.fau.edu/engineering/research/seatech/">SeaTech</a> within the Ocean and Mechanical Engineering Department (<a href="https://www.fau.edu/engineering/ome/">OME</a>) at Florida Atlantic University (FAU).
 
 {%
   include button.html

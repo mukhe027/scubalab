@@ -5,9 +5,9 @@ nav:
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %}Roboticists
 
-SCUBA Lab is always looking for enthusiastic roboticitis to work on real-world problems that can be solved using robots. Whoever joins SCUBA Lab becomes a co-founder of our start-up. We believe in solving the toughest problems that will have a positive impact in our society. Please reach out to the Principal Invesitgator (PI) with your CV to set-up an interview.
+SCUBA Lab is always looking for enthusiastic roboticists to work on real-world problems that can be solved using robots. Whoever joins SCUBA Lab becomes a co-founder of our start-up. We believe in solving the toughest problems that will have a positive impact in our society. Please reach out to the Principal Invesitgator (PI) Mukherjee with your CV to set-up an interview.
 
 {% include section.html %}
 

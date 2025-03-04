@@ -12,4 +12,4 @@ links:
   orcid: 
 ---
 
- I am an Undergraduate Research Assistant in SCUBA lab working on sensor fusion for autonomous ground robot systems.
+ I am an undergraduate researcher studying Mechanical Engineering at FAU, currently working in the SCUBA Lab. My work focuses on implementing autonomous navigation for a ground vehicle and testing both unmanned ground vehicles (UGVs) and drones using an OptiTrack camera testbed. This multi-robot testbed enhances the experimental process by providing precise position data, allowing for accurate validation and comparison of our autonomous systems.
