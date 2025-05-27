@@ -10,13 +10,14 @@ SCUBA Lab at the College of Engineering and Computer Science at Florida Atlantic
 
 Led by Dr. Pratik Mukherjee, this groundbreaking project combines advanced research, hands-on student learning, and nationwide collaboration, paving the way for resilient, scalable robot systems.
 
-Learn how we're shaping the future of autonomous robotics: https://www.fau.edu/engineering/news/2505-multi-robot-coordination-grant/
+Learn how we're shaping the future of autonomous robotics: <a href="https://www.fau.edu/engineering/news/2505-multi-robot-coordination-grant/">FAU Announcement</a>  and <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2503594&HistoricalAwards=false">NSF Award Page</a>
 
 
-<!-- {%
+
+{%
   include figure.html
-  image="images/blastocysts-nacho.png"
-  caption="Nacho's first tetraploid blastocysts!"
+  image="1747922424171.jpeg"
+  caption="A Multi-Robot Team!"
   width="700px"
-%} -->
+%}
 
