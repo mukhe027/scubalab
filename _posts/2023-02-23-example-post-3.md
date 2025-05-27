@@ -1,12 +1,17 @@
 ---
-title: Nacho first steps in the lab!
+title: SCUBA Lab gets $200,000 NSF ERI Funding to Build Multi-Robot Test-bed!
 image: images/blastocysts-nacho.png
-author: Real Lab Team
+author: SCUBA Lab Team
 ---
 
 We’ve got some exciting news from the lab today! 
 
-Nacho has just produced his first-ever tetraploid blastocysts 🧬✨ Looks like Nacho’s got a solid start maybe he’s hiding some secret lab techniques 🥷
+SCUBA Lab at the College of Engineering and Computer Science at Florida Atlantic University has secured a $200,000 grant from the National Science Foundation (NSF) to develop an innovative testbed to transform how autonomous aerial robots coordinate in real-world environments. 
+
+Led by Dr. Pratik Mukherjee, this groundbreaking project combines advanced research, hands-on student learning, and nationwide collaboration, paving the way for resilient, scalable robot systems.
+
+Learn how we're shaping the future of autonomous robotics: https://www.fau.edu/engineering/news/2505-multi-robot-coordination-grant/
+
 
 <!-- {%
   include figure.html
@@ -15,4 +20,3 @@ Nacho has just produced his first-ever tetraploid blastocysts 🧬✨ Looks like
   width="700px"
 %} -->
 
-We’re hopeful these little blastocysts will lead to many, many embryos (fingers crossed 🤞).
