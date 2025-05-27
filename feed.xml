@@ -1,42 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://mukhe027.github.io/scubalab/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mukhe027.github.io/scubalab/" rel="alternate" type="text/html" /><updated>2025-05-27T03:37:32+00:00</updated><id>https://mukhe027.github.io/scubalab/feed.xml</id><title type="html">SCALING COLLABORATIVE UNMANNED ROBOTS FOR AUTONOMY</title><entry><title type="html">SCUBA Lab gets $200,000 NSF ERI Funding to Build Multi-Robot Test-bed!</title><link href="https://mukhe027.github.io/scubalab/2023/02/23/example-post-3.html" rel="alternate" type="text/html" title="SCUBA Lab gets $200,000 NSF ERI Funding to Build Multi-Robot Test-bed!" /><published>2023-02-23T00:00:00+00:00</published><updated>2025-05-27T03:34:09+00:00</updated><id>https://mukhe027.github.io/scubalab/2023/02/23/example-post-3</id><content type="html" xml:base="https://mukhe027.github.io/scubalab/2023/02/23/example-post-3.html"><![CDATA[<p>We’ve got some exciting news from the lab today!</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://mukhe027.github.io/scubalab/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mukhe027.github.io/scubalab/" rel="alternate" type="text/html" /><updated>2025-05-27T12:08:31+00:00</updated><id>https://mukhe027.github.io/scubalab/feed.xml</id><title type="html">SCALING COLLABORATIVE UNMANNED ROBOTS FOR AUTONOMY</title><entry><title type="html">SCUBA Lab gets $200,000 NSF ERI Funding to Build Multi-Robot Test-bed!</title><link href="https://mukhe027.github.io/scubalab/2025/05/01/example-post-3.html" rel="alternate" type="text/html" title="SCUBA Lab gets $200,000 NSF ERI Funding to Build Multi-Robot Test-bed!" /><published>2025-05-01T00:00:00+00:00</published><updated>2025-05-27T12:05:27+00:00</updated><id>https://mukhe027.github.io/scubalab/2025/05/01/example-post-3</id><content type="html" xml:base="https://mukhe027.github.io/scubalab/2025/05/01/example-post-3.html"><![CDATA[<p>We’ve got some exciting news from the lab today!</p>
 
 <p>SCUBA Lab at the College of Engineering and Computer Science at Florida Atlantic University has secured a $200,000 grant from the National Science Foundation (NSF) to develop an innovative testbed to transform how autonomous aerial robots coordinate in real-world environments.</p>
 
 <p>Led by Dr. Pratik Mukherjee, this groundbreaking project combines advanced research, hands-on student learning, and nationwide collaboration, paving the way for resilient, scalable robot systems.</p>
 
-<p>Learn how we’re shaping the future of autonomous robotics: https://www.fau.edu/engineering/news/2505-multi-robot-coordination-grant/</p>
+<p>Learn how we’re shaping the future of autonomous robotics: <a href="https://www.fau.edu/engineering/news/2505-multi-robot-coordination-grant/">FAU Announcement</a>  and <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2503594&amp;HistoricalAwards=false">NSF Award Page</a></p>
 
-<!-- <figure class="figure">
-  <a
-    
-    class="figure-image"
-    aria-label="Nacho's first tetraploid blastocysts!"
-  >
-    <img
-      src="/scubalab/images/blastocysts-nacho.png"
-      style="
+<figure class="figure">
+  <a class="figure-image" aria-label="A Multi-Robot Team!">
+    <img src="/scubalab/1747922424171.jpeg" style="
         width: 700px;
         max-height: unset;
-      "
-      alt="Nacho's first tetraploid blastocysts!"
-      loading="lazy"
-      onerror="this.src = '/scubalab/images/fallback.svg'; this.onerror = null;"
-
-    >
+      " alt="A Multi-Robot Team!" loading="lazy" onerror="this.src = '/scubalab/images/fallback.svg'; this.onerror = null;" />
   </a>
   
     <figcaption class="figure-caption">
-      Nacho’s first tetraploid blastocysts!
+      A Multi-Robot Team!
 
     </figcaption>
   
-</figure>
- -->]]></content><author><name>SCUBA Lab Team</name></author><summary type="html"><![CDATA[We’ve got some exciting news from the lab today!]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://mukhe027.github.io/scubalab/images/blastocysts-nacho.png" /><media:content medium="image" url="https://mukhe027.github.io/scubalab/images/blastocysts-nacho.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Example Post 2</title><link href="https://mukhe027.github.io/scubalab/2021/09/30/example-post-2.html" rel="alternate" type="text/html" title="Example Post 2" /><published>2021-09-30T00:00:00+00:00</published><updated>2025-05-27T03:34:09+00:00</updated><id>https://mukhe027.github.io/scubalab/2021/09/30/example-post-2</id><content type="html" xml:base="https://mukhe027.github.io/scubalab/2021/09/30/example-post-2.html"><![CDATA[<!-- ---
+</figure>]]></content><author><name>SCUBA Lab Team</name></author><summary type="html"><![CDATA[We’ve got some exciting news from the lab today!]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://mukhe027.github.io/scubalab/images/blastocysts-nacho.png" /><media:content medium="image" url="https://mukhe027.github.io/scubalab/images/blastocysts-nacho.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Example Post 2</title><link href="https://mukhe027.github.io/scubalab/2021/09/30/example-post-2.html" rel="alternate" type="text/html" title="Example Post 2" /><published>2021-09-30T00:00:00+00:00</published><updated>2025-05-27T12:05:27+00:00</updated><id>https://mukhe027.github.io/scubalab/2021/09/30/example-post-2</id><content type="html" xml:base="https://mukhe027.github.io/scubalab/2021/09/30/example-post-2.html"><![CDATA[<!-- ---
 title: Example post 2
 author: jane-smith
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -->]]></content><author><name></name></author><summary type="html"><![CDATA[&lt;!– — title: Example post 2 author: jane-smith —]]></summary></entry><entry><title type="html">Example Post 1</title><link href="https://mukhe027.github.io/scubalab/2019/01/07/example-post-1.html" rel="alternate" type="text/html" title="Example Post 1" /><published>2019-01-07T00:00:00+00:00</published><updated>2025-05-27T03:34:09+00:00</updated><id>https://mukhe027.github.io/scubalab/2019/01/07/example-post-1</id><content type="html" xml:base="https://mukhe027.github.io/scubalab/2019/01/07/example-post-1.html"><![CDATA[<!-- ---
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -->]]></content><author><name></name></author><summary type="html"><![CDATA[&lt;!– — title: Example post 2 author: jane-smith —]]></summary></entry><entry><title type="html">Example Post 1</title><link href="https://mukhe027.github.io/scubalab/2019/01/07/example-post-1.html" rel="alternate" type="text/html" title="Example Post 1" /><published>2019-01-07T00:00:00+00:00</published><updated>2025-05-27T12:05:27+00:00</updated><id>https://mukhe027.github.io/scubalab/2019/01/07/example-post-1</id><content type="html" xml:base="https://mukhe027.github.io/scubalab/2019/01/07/example-post-1.html"><![CDATA[<!-- ---
 title: Example post 1
 author: sarah-johnson
 tags:
