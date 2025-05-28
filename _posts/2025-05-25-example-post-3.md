@@ -1,6 +1,6 @@
 ---
 title: SCUBA Lab gets $200,000 NSF ERI Funding to Build Multi-Robot Test-bed!
-image: images/blastocysts-nacho.png
+image: images/1747922424171.jpeg
 author: SCUBA Lab Team
 ---
 
@@ -16,7 +16,7 @@ Learn how we're shaping the future of autonomous robotics: <a href="https://www.
 
 {%
   include figure.html
-  image="1747922424171.jpeg"
+  image="images/1747922424171.jpeg"
   caption="A Multi-Robot Team!"
   width="700px"
 %}
