@@ -4,7 +4,7 @@ title: SCUBA Lab Roboticists won the best paper at the 38th Florida Conference o
 author: SCUBA Lab Team
 ---
 
-We’ve got some exciting news from the lab today! 
+
 
 Taiwo Hazeez, Cosme Penney and Daniel Guido's paper titled "Evaluating Relative Localization in GPS-Denied Environments Using Starling2 UAVs" won the best paper award!
 

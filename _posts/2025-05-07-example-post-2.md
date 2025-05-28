@@ -4,7 +4,7 @@ title: SCUBA Lab has a strong presence at the 38th Florida Conference on Recent 
 author: SCUBA Lab Team
 ---
 
-We’ve got some exciting news from the lab today! 
+
 
 Taiwo Hazeez, Cosme Penney and Daniel Guido had their paper titled "Evaluating Relative Localization in GPS-Denied Environments Using Starling2 UAVs" accepted!
 

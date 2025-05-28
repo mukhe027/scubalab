@@ -79,3 +79,16 @@ SCUBA Lab is currently recruiting actively for enthusiastic future roboticists w
   title="Our Roboticists"
   text=text
 %}
+
+{% include section.html %}
+
+## Funding
+
+{% capture col1 %}
+
+{%
+  include figure.html
+  image="images/NSF_Official_logo.png"
+%}
+
+{% endcapture %}
