@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://mukhe027.github.io/scubalab/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mukhe027.github.io/scubalab/" rel="alternate" type="text/html" /><updated>2025-05-27T12:08:31+00:00</updated><id>https://mukhe027.github.io/scubalab/feed.xml</id><title type="html">SCALING COLLABORATIVE UNMANNED ROBOTS FOR AUTONOMY</title><entry><title type="html">SCUBA Lab gets $200,000 NSF ERI Funding to Build Multi-Robot Test-bed!</title><link href="https://mukhe027.github.io/scubalab/2025/05/01/example-post-3.html" rel="alternate" type="text/html" title="SCUBA Lab gets $200,000 NSF ERI Funding to Build Multi-Robot Test-bed!" /><published>2025-05-01T00:00:00+00:00</published><updated>2025-05-27T12:05:27+00:00</updated><id>https://mukhe027.github.io/scubalab/2025/05/01/example-post-3</id><content type="html" xml:base="https://mukhe027.github.io/scubalab/2025/05/01/example-post-3.html"><![CDATA[<p>We’ve got some exciting news from the lab today!</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://mukhe027.github.io/scubalab/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mukhe027.github.io/scubalab/" rel="alternate" type="text/html" /><updated>2025-05-28T02:50:56+00:00</updated><id>https://mukhe027.github.io/scubalab/feed.xml</id><title type="html">SCALING COLLABORATIVE UNMANNED ROBOTS FOR AUTONOMY</title><entry><title type="html">SCUBA Lab gets $200,000 NSF ERI Funding to Build Multi-Robot Test-bed!</title><link href="https://mukhe027.github.io/scubalab/2025/05/25/example-post-3.html" rel="alternate" type="text/html" title="SCUBA Lab gets $200,000 NSF ERI Funding to Build Multi-Robot Test-bed!" /><published>2025-05-25T00:00:00+00:00</published><updated>2025-05-28T02:47:38+00:00</updated><id>https://mukhe027.github.io/scubalab/2025/05/25/example-post-3</id><content type="html" xml:base="https://mukhe027.github.io/scubalab/2025/05/25/example-post-3.html"><![CDATA[<p>We’ve got some exciting news from the lab today!</p>
 
 <p>SCUBA Lab at the College of Engineering and Computer Science at Florida Atlantic University has secured a $200,000 grant from the National Science Foundation (NSF) to develop an innovative testbed to transform how autonomous aerial robots coordinate in real-world environments.</p>
 
@@ -8,7 +8,7 @@
 
 <figure class="figure">
   <a class="figure-image" aria-label="A Multi-Robot Team!">
-    <img src="/scubalab/1747922424171.jpeg" style="
+    <img src="/scubalab/images/1747922424171.jpeg" style="
         width: 700px;
         max-height: unset;
       " alt="A Multi-Robot Team!" loading="lazy" onerror="this.src = '/scubalab/images/fallback.svg'; this.onerror = null;" />
@@ -19,18 +19,68 @@
 
     </figcaption>
   
-</figure>]]></content><author><name>SCUBA Lab Team</name></author><summary type="html"><![CDATA[We’ve got some exciting news from the lab today!]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://mukhe027.github.io/scubalab/images/blastocysts-nacho.png" /><media:content medium="image" url="https://mukhe027.github.io/scubalab/images/blastocysts-nacho.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Example Post 2</title><link href="https://mukhe027.github.io/scubalab/2021/09/30/example-post-2.html" rel="alternate" type="text/html" title="Example Post 2" /><published>2021-09-30T00:00:00+00:00</published><updated>2025-05-27T12:05:27+00:00</updated><id>https://mukhe027.github.io/scubalab/2021/09/30/example-post-2</id><content type="html" xml:base="https://mukhe027.github.io/scubalab/2021/09/30/example-post-2.html"><![CDATA[<!-- ---
-title: Example post 2
-author: jane-smith
----
+</figure>]]></content><author><name>SCUBA Lab Team</name></author><summary type="html"><![CDATA[We’ve got some exciting news from the lab today!]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://mukhe027.github.io/scubalab/images/1747922424171.jpeg" /><media:content medium="image" url="https://mukhe027.github.io/scubalab/images/1747922424171.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">SCUBA Lab Roboticists won the best paper at the 38th Florida Conference on Recent Advances in Robotics (FCRAR)!</title><link href="https://mukhe027.github.io/scubalab/2025/05/08/example-post-1.html" rel="alternate" type="text/html" title="SCUBA Lab Roboticists won the best paper at the 38th Florida Conference on Recent Advances in Robotics (FCRAR)!" /><published>2025-05-08T00:00:00+00:00</published><updated>2025-05-28T02:47:38+00:00</updated><id>https://mukhe027.github.io/scubalab/2025/05/08/example-post-1</id><content type="html" xml:base="https://mukhe027.github.io/scubalab/2025/05/08/example-post-1.html"><![CDATA[<p>We’ve got some exciting news from the lab today!</p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -->]]></content><author><name></name></author><summary type="html"><![CDATA[&lt;!– — title: Example post 2 author: jane-smith —]]></summary></entry><entry><title type="html">Example Post 1</title><link href="https://mukhe027.github.io/scubalab/2019/01/07/example-post-1.html" rel="alternate" type="text/html" title="Example Post 1" /><published>2019-01-07T00:00:00+00:00</published><updated>2025-05-27T12:05:27+00:00</updated><id>https://mukhe027.github.io/scubalab/2019/01/07/example-post-1</id><content type="html" xml:base="https://mukhe027.github.io/scubalab/2019/01/07/example-post-1.html"><![CDATA[<!-- ---
-title: Example post 1
-author: sarah-johnson
-tags:
-  - biology
-  - medicine
-  - big data
----
+<p>Taiwo Hazeez, Cosme Penney and Daniel Guido’s paper titled “Evaluating Relative Localization in GPS-Denied Environments Using Starling2 UAVs” won the best paper award!</p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -->]]></content><author><name></name></author><summary type="html"><![CDATA[&lt;!– — title: Example post 1 author: sarah-johnson tags: biology medicine big data]]></summary></entry></feed>
+<!-- <figure class="figure">
+  <a
+    
+    class="figure-image"
+    aria-label="A Multi-Robot Team!"
+  >
+    <img
+      src="/scubalab/1747922424171.jpeg"
+      style="
+        width: 700px;
+        max-height: unset;
+      "
+      alt="A Multi-Robot Team!"
+      loading="lazy"
+      onerror="this.src = '/scubalab/images/fallback.svg'; this.onerror = null;"
+
+    >
+  </a>
+  
+    <figcaption class="figure-caption">
+      A Multi-Robot Team!
+
+    </figcaption>
+  
+</figure>
+ -->]]></content><author><name>SCUBA Lab Team</name></author><summary type="html"><![CDATA[We’ve got some exciting news from the lab today!]]></summary></entry><entry><title type="html">SCUBA Lab has a strong presence at the 38th Florida Conference on Recent Advances in Robotics (FCRAR)!</title><link href="https://mukhe027.github.io/scubalab/2025/05/07/example-post-2.html" rel="alternate" type="text/html" title="SCUBA Lab has a strong presence at the 38th Florida Conference on Recent Advances in Robotics (FCRAR)!" /><published>2025-05-07T00:00:00+00:00</published><updated>2025-05-28T02:47:38+00:00</updated><id>https://mukhe027.github.io/scubalab/2025/05/07/example-post-2</id><content type="html" xml:base="https://mukhe027.github.io/scubalab/2025/05/07/example-post-2.html"><![CDATA[<p>We’ve got some exciting news from the lab today!</p>
+
+<p>Taiwo Hazeez, Cosme Penney and Daniel Guido had their paper titled “Evaluating Relative Localization in GPS-Denied Environments Using Starling2 UAVs” accepted!</p>
+
+<p>Daniel Granda, Vladimir Gunichev and Caleb Sanchez had their paper titled “ Accelerating Early-Stage Robot Navigation Development with Motion Capture and ROS” accepted!</p>
+
+<p>Caleb Sanchez had his abstract “Revealing All the Mysteries of Using Motion Capture System for Robot Localization” accepted!</p>
+
+<p>Congrats to all the SCUBA roboticists!</p>
+
+<!-- <figure class="figure">
+  <a
+    
+    class="figure-image"
+    aria-label="A Multi-Robot Team!"
+  >
+    <img
+      src="/scubalab/1747922424171.jpeg"
+      style="
+        width: 700px;
+        max-height: unset;
+      "
+      alt="A Multi-Robot Team!"
+      loading="lazy"
+      onerror="this.src = '/scubalab/images/fallback.svg'; this.onerror = null;"
+
+    >
+  </a>
+  
+    <figcaption class="figure-caption">
+      A Multi-Robot Team!
+
+    </figcaption>
+  
+</figure>
+ -->]]></content><author><name>SCUBA Lab Team</name></author><summary type="html"><![CDATA[We’ve got some exciting news from the lab today!]]></summary></entry></feed>
