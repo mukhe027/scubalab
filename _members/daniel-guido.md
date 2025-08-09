@@ -1,12 +1,12 @@
 ---
-name: Daniel Guido
-image: images/daniel_guido.png
+name: Emily King
+image: images/robot_profile.png
 description: Undergraduate Researcher
 role: phd
 affiliation: Florida Atlantic University
 aliases:
-  - D. Guido
-  - D Guido
+  - E. King
+  - E King
 links:
   home-page: 
   orcid: 
