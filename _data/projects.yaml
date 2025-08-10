@@ -11,7 +11,7 @@
   subtitle: USDA/NIFA- NSF/FRR
   group: featured
   image: images/mrs_agri.png
-  link: 
+  link: https://drive.google.com/file/d/1g9pGK2bwxJLx9S4IxVfSCqT5_lpDvGYK/view?usp=sharing
   description: Integrating camera based active information acquisition for agriculture with stably coordinating unmanned aerial vehicles in multi-robot teams.
   repo: 
   tags:
@@ -19,7 +19,7 @@
 - title: Topology Control of Asymmetrically Interacting Underwater Multi-Robot System
   subtitle: NSF-Foundational Research in Robotics (FRR)
   image: images/jelly_topo.png
-  link: 
+  link: https://drive.google.com/file/d/1fUjPBwg2a0-hYyi04AjNJ2PFm_XwF1x-/view?usp=sharing
   description: Developing distributed and scalable multi-robot topology control algorithms for a team of underwater soft robots.
   repo: 
   tags:
@@ -27,7 +27,7 @@
 - title: From Graph Stability To Grasp Stability
   subtitle: NSF- Mind, Machine and Motor Nexus (M3X)
   image: images/tactile_sensing.png
-  link: 
+  link: https://drive.google.com/file/d/1DNSu5dHdb9vw_OE_XW3yETFMZ1F0OYfM/view?usp=sharing
   description: Enhancing the capability of manipulator class of robots equipped with tactile sensors by using generative model approaches to classify manipulation tasks such as- object recognition, material classification, texture recognition, slip detection and grasp stability.
   repo: 
   tags:
