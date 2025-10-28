@@ -1,6 +1,6 @@
 ---
 name: Emily King
-image: images/robot_profile.png
+image: images/emily.jpeg
 description: Undergraduate Researcher
 role: phd
 affiliation: Florida Atlantic University
