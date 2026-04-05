@@ -18,8 +18,8 @@ SCUBA Lab is affiliated with <a href="https://www.fau.edu/engineering/research/s
 {%
   include button.html
   type="phone"
-  text="(612) 707-5435"
-  link="+1-612-707-5435"
+  text="954-924-7040"
+  link="+1-954-924-7040"
 %}
 {%
   include button.html
