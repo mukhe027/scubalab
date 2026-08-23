@@ -65,7 +65,7 @@
   file: sources.yaml
 - id:  arXiv:2405.16358
   title: Neural L1 Adaptive Control of Vehicle Lateral Dynamics
-  authors:  
+  authors:
   - Pratik Mukherjee
   - Burak Mert Gonultas
   - O. Goktug Poyrazoglu
@@ -74,5 +74,25 @@
   date: '2025-01-27'
   link: https://arxiv.org/abs/2405.16358
   image: images/neural.png
+  plugin: sources.py
+  file: sources.yaml
+- id: document/11625460
+  title: Pontryagin-Augmented NMPC for Stable Quadrotor Landing Under Learned Downwash Disturbances
+  authors:
+  - Pratik Mukherjee
+  publisher: ECC
+  date: '2026-07-08'
+  link: https://ieeexplore.ieee.org/abstract/document/11625460
+  image: images/framework2.png
+  plugin: sources.py
+  file: sources.yaml
+- id: document/11598672
+  title: Neural PMP-NMPC for Adaptive and Stable Quadrotor Control in Perception-Driven Tasks
+  authors:
+  - Pratik Mukherjee
+  publisher: ICUAS
+  date: '2026-06-16'
+  link: https://ieeexplore.ieee.org/abstract/document/11598672
+  image: images/icuasframework.jpg
   plugin: sources.py
   file: sources.yaml

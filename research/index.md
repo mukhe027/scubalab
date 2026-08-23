@@ -13,6 +13,14 @@ Our research focuses on developing control algorithms for multi-robot topology c
 
 ## Highlighted
 
+{% include citation.html lookup="Pontryagin-Augmented NMPC for Stable Quadrotor Landing Under Learned Downwash Disturbances" style="rich" %}
+
+{% include section.html %} 
+
+{% include citation.html lookup="Neural PMP-NMPC for Adaptive and Stable Quadrotor Control in Perception-Driven Tasks" style="rich" %}
+
+{% include section.html %} 
+
 {% include citation.html lookup="Neural L1 Adaptive Control of Vehicle Lateral Dynamics" style="rich" %}
 
 {% include section.html %} 
